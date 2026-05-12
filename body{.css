@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduConnect Sierra Leone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">EduConnect</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Resources</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Connecting Sierra Leone to Digital Learning</h1>
+    <p>Access quality education resources anytime, anywhere.</p>
+    <button>Join EduConnect</button>
+  </section>
+
+  <!-- Problem/Solution -->
+  <section class="problem-solution">
+    <div class="text">
+      <h2>The Challenge</h2>
+      <p>Many students lack access to updated learning materials...</p>
+      <h2>Our Solution</h2>
+      <p>EduConnect provides open digital resources and teacher training.</p>
+    </div>
+    <div class="image">
+      <img src="education.png" alt="Students learning digitally">
+    </div>
+  </section>
+
+  <!-- SDG Section -->
+  <section class="sdgs">
+    <h2>Aligned with SDGs</h2>
+    <div class="grid">
+      <div class="card">SDG 4: Quality Education</div>
+      <div class="card">SDG 9: Innovation</div>
+      <div class="card">SDG 10: Reduced Inequalities</div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="testimonials">
+    <h2>What People Say</h2>
+    <div class="card">“EduConnect changed my classroom experience.” – Teacher</div>
+    <div class="card">“I can now study even at home.” – Student</div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 EduConnect Sierra Leone</p>
+    <p>GitHub Repo: <a href="#">Your Repo Link</a></p>
+  </footer>
+</body>
+</html>
